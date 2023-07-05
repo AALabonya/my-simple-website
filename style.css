@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+div{
+    color: blueviolet;
+    background-color: antiquewhite;
+    padding: 10px;
+}
